@@ -1,0 +1,16 @@
+{
+  "name": "com.yuyang.unity-extensions.steamworks",
+  "displayName": "Unity Extensions Steamworks",
+  "description": "A C# Wrapper for Valve's Steamworks API. This is a package version for Unity, source code & documentation here: https://github.com/rlabrecque/Steamworks.NET.",
+  "version": "1.0.0",
+  "keywords": [
+    "extensions",
+    "steamworks"
+  ],
+  "type": "library",
+  "unity": "2019.3",
+  "unityRelease": "0f1",
+  "dependencies": {
+    "com.yuyang.unity-extensions.common": ""
+  }
+}
