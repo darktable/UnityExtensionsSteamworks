@@ -28,9 +28,9 @@ A C# Wrapper for Valve's Steamworks API. This is a package version for Unity, so
 
 ## Installation
 Unity can not install dependent packages automatically at present, you have to install them manually:
-- https://github.com/yuyang9119/UnityExtensionsCommon
+- https://github.com/90-games/UnityExtensionsCommon
 
-Open the package manager window (menu: Window > Package Manager), select "Add package from git URL...", fill in this in the pop-up textbox: https://github.com/yuyang9119/UnityExtensionsSteamworks.git.
+Open the package manager window (menu: Window > Package Manager), select "Add package from git URL...", fill in this in the pop-up textbox: https://github.com/90-games/UnityExtensionsSteamworks.git.
 
 
 
